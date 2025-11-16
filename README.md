@@ -20,10 +20,10 @@ O objetivo é simular reserva de assentos, compra de ingressos e gerenciamento d
 
 # 🛠 Tecnologias Utilizadas
 
-Java 17+
-Paradigma Orientado a Objetos (POO)
-Scanner (entrada de dados)
-Arquitetura MVC Simples
+- Java 17+
+- Paradigma Orientado a Objetos (POO)
+- Scanner (entrada de dados)
+- Arquitetura MVC Simples
 
 ---
 
