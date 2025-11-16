@@ -1,15 +1,16 @@
 ### IntelliJ IDEA ###
+.idea/
 out/
+*.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
-.kotlin
 
 ### Eclipse ###
 .apt_generated
 .classpath
 .factorypath
 .project
-.settings
+.settings/
 .springBeans
 .sts4-cache
 bin/
@@ -26,5 +27,23 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+### Java ###
+*.class
+*.log
+
+### Maven ###
+target/
+.mvn/
+
+### Gradle ###
+build/
+.gradle/
+
+### Node / Angular ###
+node_modules/
+dist/
+.angular/
+
+### Operating System ###
 .DS_Store
+Thumbs.db
