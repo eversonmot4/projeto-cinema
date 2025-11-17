@@ -24,7 +24,7 @@ O objetivo é simular reserva de assentos, compra de ingressos e gerenciamento d
 - Paradigma Orientado a Objetos (POO)
 - Scanner (entrada de dados)
 - Arquitetura MVC Simples
-- Adicionar futuramente adicionar interface com JavaFX
+- Adicionar futuramente uma interface com JavaFX
 
 ---
 
